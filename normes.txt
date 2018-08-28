@@ -1,0 +1,5 @@
+/* this is a norm file */
+1) THE BASIC FORM FILE AFTER THE LICENCE PHASE 1 IS form.pdf/form.csv
+2) THE FOLDER NAME FOR CAT-2 IS technical-folder and financial-folder
+3) THE FOLDER NAME FOR CAT-2 IS demand-folder
+4) THE ACTIVITY FOLDER NAME //for the managers// FOR BOTH FOLDERS IS activity-folder
